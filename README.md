@@ -34,7 +34,7 @@
 ## 🔗 Connect With Me 🤝
 
 - 💼 **LinkedIn:**  
-  👉 [Mohamed Moamen](https://www.linkedin.com/in/mohamed-moamen-91a5513a5)  
+  👉 [Mohamed Moamen](https://www.linkedin.com/in/mohamed-moamen-91a5513a5)
 
 ---
 
@@ -54,10 +54,13 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🧰 Tools & Platforms
+### 🧰 Tools & Platforms ⚙️
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Forms](https://img.shields.io/badge/Forms-4285F4?style=flat&logo=googleforms&logoColor=white)
 
 ---
 
@@ -70,7 +73,8 @@ public:
     string field = "Computer Science & Software Development 💻";
 
     vector<string> programmingLanguages = {
-        "C ⚙️", "C++ 🚀", "Java ☕", "JavaScript 🌐", "Python 🐍"
+        "C ⚙️", "C++ 🚀", "Java ☕",
+        "JavaScript 🌐", "Python 🐍"
     };
 
     vector<string> webTechnologies = {
@@ -82,6 +86,7 @@ public:
     };
 
     vector<string> tools = {
-        "Git 🔧", "Linux 🐧", "VS Code 📝"
+        "Git 🔧", "Linux 🐧", "Windows 🪟",
+        "VS Code 📝", "Flutter 🐦", "Forms 📄"
     };
 };
