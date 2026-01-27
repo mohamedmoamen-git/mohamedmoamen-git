@@ -7,7 +7,7 @@
 <h4>Computer Science Student | Software Developer</h4>
 
 <!-- LinkedIn Badge -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-moamen-91a5513a5/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Momen-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -70,3 +70,4 @@ class MohamedMomen {
         "Git", "Linux", "VS Code"
     };
 }
+
