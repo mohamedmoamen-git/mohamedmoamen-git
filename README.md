@@ -6,12 +6,17 @@
 <h2>👋 Hi, I'm Mohamed Momen</h2>
 <h4>Computer Science Student | Software Developer</h4>
 
+<!-- LinkedIn Badge -->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Momen-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+
 <details>
 <p><strong> <summary> 💻 Busy Coding & Learning </summary> </strong></p>
 Always improving my skills and building cool projects 🚀
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
 
