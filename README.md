@@ -1,73 +1,87 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
-<h2>👋 Mohamed Moamen</h2>
-<h4>Computer Science Student | Software Developer</h4>
-
-<!-- LinkedIn Badge -->
-<a href="https://www.linkedin.com/in/mohamed-moamen-91a5513a5/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Momen-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-
-<details>
-<p><strong> <summary> 💻 Busy Coding & Learning </summary> </strong></p>
-Always improving my skills and building cool projects 🚀
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+# 👋 Mohamed Moamen  
+### 💻 Computer Science & Software Development Student  
+### 🎓 El Sewedy Polytechnic – El Sewedy University of Technology (SUT)
 
 </div>
 
-<hr>
+---
 
-## 🚀 About Me
-- 🎓 Computer Science Student  
-- 💡 Passionate about **Software Development**
-- 🧠 Strong fundamentals in **OOP, Databases, Networks**
-- 🌱 Always learning new technologies
+## 🧑‍💻 About Me ✨
 
-<hr>
+- 🎓 **Student** at *El Sewedy Polytechnic (SUT)*  
+- 🧠 **Major:** Computer Science & Software Development  
+- ⚙️ **Interests:** Software Engineering & Web Development  
+- 🐧 **GNU/Linux** enthusiast  
+- 🚀 Always learning, always building  
 
-## 🛠️ Tech Stack & Tools
+---
 
+## 🏫 About El Sewedy Polytechnic (SUT) 🏛️
+
+- 🇪🇬 **El Sewedy University of Technology (SUT)** – Egypt  
+- 🧑‍🏭 Industry-Oriented Technical University  
+- 📚 Focus on **Applied Computer Science & Software Development**  
+- 🤝 Strong connection with **real-world projects & job market**  
+- 🧪 Learning by **Practice, Not Theory Only**  
+
+---
+
+## 🔗 Connect With Me 🤝
+
+- 💼 **LinkedIn:**  
+  👉 [Mohamed Moamen](https://www.linkedin.com/in/mohamed-moamen-91a5513a5)  
+
+---
+
+## 🛠️ Tech Stack & Skills ⚡
+
+### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-![Database](https://img.shields.io/badge/Database-07405E?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
-<hr>
+---
 
-## 🧩 Skills Overview (Code Style)
+## 👨‍💻 Tech Profile (Code Style) 🧠💡
 
-```java
-class MohamedMomen {
-    String role = "Computer Science Student & Software Developer";
+```cpp
+class MohamedMoamen {
+public:
+    string university = "El Sewedy Polytechnic - SUT 🎓";
+    string field = "Computer Science & Software Development 💻";
 
-    String[] programmingLanguages = {
-        "Java", "JavaScript", "Python", "C", "C++"
+    vector<string> programmingLanguages = {
+        "C ⚙️", "C++ 🚀", "Java ☕", "JavaScript 🌐", "Python 🐍"
     };
 
-    String[] webTechnologies = {
-        "HTML", "CSS"
+    vector<string> webTechnologies = {
+        "HTML 🧱", "CSS 🎨"
     };
 
-    String[] concepts = {
-        "OOP", "Data Structures", "Databases", "Networking Basics"
+    vector<string> databaseSystems = {
+        "MySQL 🗄️"
     };
 
-    String[] tools = {
-        "Git", "Linux", "VS Code"
+    vector<string> tools = {
+        "Git 🔧", "Linux 🐧", "VS Code 📝"
     };
-}
-
+};
