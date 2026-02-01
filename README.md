@@ -14,7 +14,7 @@
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
+
 
 </div>
 
